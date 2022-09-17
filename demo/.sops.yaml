@@ -1,0 +1,4 @@
+---
+creation_rules:
+  - kms: 'arn:aws:kms:us-east-1:572081252992:key/23c91c12-2706-41ec-a8aa-f5d16c0f2fcf'
+#    aws_profile: zhenya
