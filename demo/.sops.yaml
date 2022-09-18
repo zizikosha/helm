@@ -1,4 +1,4 @@
 ---
 creation_rules:
-  - kms: 'arn:aws:kms:us-east-1:572081252992:key/9d45f826-8771-4006-a3eb-f1f6898e6e67'
-#    aws_profile: zhenya
+  - pgp: 'E13A684E377109C55956D756160451D530D2AE9F'
+#    aws_profile: kms.user
