@@ -1,4 +1,4 @@
 ---
 creation_rules:
-  - pgp: '426BD501DA8C604B05CEC85C35D9C41A777B6D38'
+  - kms: 'arn:aws:kms:us-east-1:572081252992:key/9d45f826-8771-4006-a3eb-f1f6898e6e67'
 #    aws_profile: kms.user
