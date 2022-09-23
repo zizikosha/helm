@@ -26,9 +26,9 @@ data:
                 try_files $uri $uri/ =404;
         }
 
-        location /photo {
-                index photo.html;
-        }
+        #location /photo {
+        #        index photo.html;
+        #}
 
         location ~ \.php$ {
                 try_files $uri =404;
